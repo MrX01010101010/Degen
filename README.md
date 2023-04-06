@@ -1,5 +1,1 @@
-- 👋 Hi, I’m @MrGFreeman
-- 👀 I’m interested in privacy, blockchain, communication apps, crypto, fin-tech, business management
-- 🌱 I’m currently learning about smart contracts and cryptography.
-- 💞️ I’m looking to collaborate on blockchain based projects.
-- 📫 How to reach me: Discord https://discord.gg/TCpRZ5c685 or by email: oskars@altermail.co
+10101011
